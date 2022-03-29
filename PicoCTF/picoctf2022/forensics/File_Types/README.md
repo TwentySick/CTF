@@ -9,7 +9,6 @@ After that, I've got a file with head is !<arch>
 
 ```bash
 ar x flag
-mkdir extract
 ```
 The file extracted is in cpio type
 ```bash
