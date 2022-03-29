@@ -5,7 +5,7 @@ cp Flag.pdf Flag.sh
 chmod 700 Flag.sh
 ./Flag.sh
 ```
-After that, I've got a file with head is !<arch>
+After that, I've got a file with head is `!<arch>`
 
 ```bash
 ar x flag
