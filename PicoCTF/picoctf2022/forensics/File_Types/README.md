@@ -1,4 +1,10 @@
 # File Types
+
+## Challenge
+
+
+## Solution
+
 Check hex file Flag.pdf => Type of this file is .sh
 
 ```bash
