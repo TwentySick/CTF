@@ -1,3 +1,4 @@
+# File Types
 Check hex file Flag.pdf => Type of this file is .sh
 
 ```bash
@@ -5,11 +6,10 @@ cp Flag.pdf Flag.sh
 chmod 700 Flag.sh
 ./Flag.sh
 ```
-After that, I've got a file with head is !<arch>
+After that, I've got a file with head is `!<arch>`
 
 ```bash
 ar x flag
-mkdir extract
 ```
 The file extracted is in cpio type
 ```bash
@@ -39,13 +39,13 @@ lzip -d flag
 7z -x flag.out
 cat flag
 ```
-After extracting those file, we've got a hex sequence. Using cyberchef to decode it, we've got the flag (I prayed to God for who is created this chall)
+After extracting those file, we've got a hex sequence. 
 
 ```
 7069636f4354467b66316c656e406d335f6d406e3170756c407431306e5f
 6630725f3062326375723137795f39353063346665657d0a
 ```
-
+Finally, using cyberchef to decode, we've got the flag (I prayed to God for who is created this chall)\
 Flag
 ```
 picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_950c4fee}
