@@ -2,6 +2,7 @@
 
 ## Challenge
 
+![alt text](https://github.com/TwentySick/CTF/blob/8bd8a9685a19f43262b3eb36fdb28191ed28e594/PicoCTF/picoctf2022/forensics/File_Types/images/challenge.png)
 
 ## Solution
 
