@@ -1,4 +1,4 @@
-# bbbbloat
+# Bbbbloat
 
 ## Challenge
 ![alt text](https://github.com/TwentySick/CTF/blob/85fcb0b8ea4ad05ad0f8b9b864cf3133788b9567/PicoCTF/picoctf2022/reverse_engineering/bbbbloat/images/challenge.png)
