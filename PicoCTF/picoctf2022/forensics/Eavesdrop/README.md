@@ -1,7 +1,7 @@
 # Eavesdrop
 
 ## Challenge
-![alt text](https://github.com/TwentySick/CTF/blob/b669ec453994feba5264f936b86cfe0406d31c54/PicoCTF/picoctf2022/forensics/Eavesdrop/images/challenge.png)\
+![alt text](https://github.com/TwentySick/CTF/blob/b669ec453994feba5264f936b86cfe0406d31c54/PicoCTF/picoctf2022/forensics/Eavesdrop/images/challenge.png)
 ## Solution
 
 Using Wireshark, I can follow the conversation from TCP stream\
