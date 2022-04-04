@@ -6,7 +6,7 @@ Use ffmpeg to extract frame from the video
 ```bash
 ffmpeg -i buzzsaw.avi -vf fps=10 %d.png
 ```
-Those image here attended like from binary base\
+Those image here attended like binary base\
 (If you look at the led light, you will recognize that)\
 Binary Base:
 ```
