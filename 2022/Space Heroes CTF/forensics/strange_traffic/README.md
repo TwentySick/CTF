@@ -1,5 +1,6 @@
 # Strange Traffic
 ## Challenge
+![challenge](https://github.com/TwentySick/CTF/blob/13adbe39365be04af5443dd157bf9e831c7caf91/2022/Space%20Heroes%20CTF/forensics/strange_traffic/images/challenge.png)
 ## Solution
 Exporting as plain text from file pcap, we need delete to get only the number from packet\
 Number
@@ -19,8 +20,9 @@ for i in list:
 
 print(*out)
 ```
-Deleting space and 'enter', replacing \'[\' with \'{\', \']\' with \'}\', \'alt\' with \'\_\', I got the flag
-Flag:\
+Deleting space and 'enter', replacing \'[\' with \'{\', \']\' with \'}\', \'alt\' with \'\_\', I got the flag\
+![running](https://github.com/TwentySick/CTF/blob/13adbe39365be04af5443dd157bf9e831c7caf91/2022/Space%20Heroes%20CTF/forensics/strange_traffic/images/run_script.png)\
+Flag:
 ```
 shctf{thanks_f0r_th3_t4nk._he_n3ver_get5_me_anyth1ng}
 ```
