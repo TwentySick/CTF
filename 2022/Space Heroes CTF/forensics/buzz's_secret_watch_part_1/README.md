@@ -1,5 +1,6 @@
 # Buzz's Secret Watch (Part 1)
 ## Challenge
+![challenge](https://github.com/TwentySick/CTF/blob/3c0ec7f12eeeffaf28d3d0c737e457861dcf0e06/2022/Space%20Heroes%20CTF/forensics/buzz's_secret_watch_part_1/images/challenge.png)
 ## Solution
 Use ffmpeg to extract frame from the video
 ```bash
