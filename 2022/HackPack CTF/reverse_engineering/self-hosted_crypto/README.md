@@ -2,7 +2,7 @@
 ## Challenge
 ![challenge](https://github.com/TwentySick/CTF/blob/10257b5552745817d6bdb41ac4ed81ea0ac1ed0d/2022/HackPack%20CTF/reverse_engineering/self-hosted_crypto/images/challenge.png)
 ## Solution
-Convert character from file encrypted to Hex\
+Convert content from file encrypted to Hex\
 ![Hex](https://github.com/TwentySick/CTF/blob/10257b5552745817d6bdb41ac4ed81ea0ac1ed0d/2022/HackPack%20CTF/reverse_engineering/self-hosted_crypto/images/get_hex.png)\
 Then convert to Decimal, so I get an array of numbers 
 ```
