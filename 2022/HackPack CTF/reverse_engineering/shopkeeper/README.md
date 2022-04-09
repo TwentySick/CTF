@@ -338,7 +338,7 @@ They create 3 challenges using the same host\
 ## Solution
 ### Flag 1
 decode base64 and get flag\
-(I wish I known the base64 part is from ELF execute file soon)\
+(I wish I knew the base64 part is from ELF execute file soon)\
 Flag:
 ```
 flag{b4s364_1s_s0_c3wl_wh0_kn3w_you_c0u1d_do_th15}
