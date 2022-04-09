@@ -21,7 +21,7 @@ for number in list:
 
 print(*out)
 ```
-It just minus each number with 13, then convert them to ASCII and get the flag.
+It just minus each number by 13, then convert them to ASCII and get the flag.
 ![solved](https://github.com/TwentySick/CTF/blob/10257b5552745817d6bdb41ac4ed81ea0ac1ed0d/2022/HackPack%20CTF/reverse_engineering/self-hosted_crypto/images/solved.png)\
 Flag
 ```
