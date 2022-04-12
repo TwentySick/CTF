@@ -344,7 +344,7 @@ Flag:
 flag{b4s364_1s_s0_c3wl_wh0_kn3w_you_c0u1d_do_th15}
 ```
 ### Flag 2
-Earning money by buy negative Oranges or Apples.\
+Earning money by buying negative Oranges or Apples.\
 Stop when having more than 100 coins (gold), buy key flag and get flag.\
 ![solved 2](https://github.com/TwentySick/CTF/blob/61692e9bc51578758f826e7b04a0368a158d6594/2022/HackPack%20CTF/reverse_engineering/shopkeeper/images/solve_chall_2.png)\
 Flag:
