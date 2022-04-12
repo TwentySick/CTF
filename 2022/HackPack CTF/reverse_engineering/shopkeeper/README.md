@@ -357,7 +357,7 @@ I decode this part and turn it to Hex to get the file (I think Hex is more accur
 It's actually happened like what I think, I get this file and use ghidra to check.\
 Looking at function Level2 and function main, I know if I have 19 coins after buying key, I can go to Level 2 (challenge 3).\
 ![decompiler_chall_3](https://github.com/TwentySick/CTF/blob/61692e9bc51578758f826e7b04a0368a158d6594/2022/HackPack%20CTF/reverse_engineering/shopkeeper/images/decompiler_chall_3.png)\
-Successfully accessed level 2, I spend a little time to spam '99999' to bet and I get the flag when I get correct 4 times.\
+Successfully accessed level 2, I spent a little time to spam '99999' to bet and I got the flag when I was correct at bet 4 times.\
 ![solved 3](https://github.com/TwentySick/CTF/blob/61692e9bc51578758f826e7b04a0368a158d6594/2022/HackPack%20CTF/reverse_engineering/shopkeeper/images/solved_chall_3.png)\
 Flag:
 ```
