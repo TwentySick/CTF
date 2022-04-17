@@ -1,15 +1,18 @@
 # Self-Hosted Crypto
 ## Challenge
+![challenge](https://github.com/TwentySick/CTF/blob/10257b5552745817d6bdb41ac4ed81ea0ac1ed0d/2022/HackPack%20CTF/reverse_engineering/self-hosted_crypto/images/challenge.png)
 ## Solution
-Convert character from file encrypted to decimal (converting to Hex is middle step, I convert to Hex then convert from Hex to Decimal because I'm stupid at math :( )\
-So I get a array of numbers 
+Convert content from file encrypted to Hex\
+![Hex](https://github.com/TwentySick/CTF/blob/10257b5552745817d6bdb41ac4ed81ea0ac1ed0d/2022/HackPack%20CTF/reverse_engineering/self-hosted_crypto/images/get_hex.png)\
+Then convert to Decimal, so I get an array of numbers 
 ```
 115 121 110 116 136 78 108 111 65 113 108 86 113 64 65 46 62 46 138 10
 ```
-And here is the pseudocode from the file giving by challenge
+And here is the pseudocode from the file giving by challenge\
+![decompiler](https://github.com/TwentySick/CTF/blob/10257b5552745817d6bdb41ac4ed81ea0ac1ed0d/2022/HackPack%20CTF/reverse_engineering/self-hosted_crypto/images/decompiler.png)\
 After reading, I wrote a short python script to calculate.
 ```python
-[115, 121, 110, 116, 136, 78, 108, 111, 65, 113, 108, 86, 113, 64, 65, 46, 62, 46, 138, 10]
+list = [115, 121, 110, 116, 136, 78, 108, 111, 65, 113, 108, 86, 113, 64, 65, 46, 62, 46, 138, 10]
 
 out = []
 for number in list:
@@ -18,7 +21,8 @@ for number in list:
 
 print(*out)
 ```
-It just minus each number with 13, then convert them to ASCII and get the flag.
+It just minus each number by 13, then convert them to ASCII and get the flag.
+![solved](https://github.com/TwentySick/CTF/blob/10257b5552745817d6bdb41ac4ed81ea0ac1ed0d/2022/HackPack%20CTF/reverse_engineering/self-hosted_crypto/images/solved.png)\
 Flag
 ```
 flag{A_b4d_Id34!1!}
