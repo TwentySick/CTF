@@ -5,3 +5,4 @@ It's about CTFs that I've solved. There are my writeup for those challenges
 - [VishwaCTF](https://github.com/TwentySick/CTF/tree/main/2022/VishwaCTF)
 - [Space Heroes CTF](https://github.com/TwentySick/CTF/tree/main/2022/Space%20Heroes%20CTF)
 - [HackPack CTF](https://github.com/TwentySick/CTF/tree/main/2022/HackPack%20CTF)
+- [DCTF](https://github.com/TwentySick/CTF/tree/main/2022/DCTF)
