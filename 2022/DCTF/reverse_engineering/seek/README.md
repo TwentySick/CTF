@@ -1,5 +1,6 @@
 # Seek
 ## Challenge
+![Challenge](https://github.com/TwentySick/CTF/blob/b83b2bc8891ef2b439851a833a8fdaeb6c66a2ea/2022/DCTF/reverse_engineering/seek/images/challenge.png)
 ## Solution
 As I know, fseek is working likely pointer in C
 
@@ -768,8 +769,6 @@ Using VIM, I easily take the number out from this file, but it's not sorted
 
 (Recommend you use VIM, VIM is powerful)
 
-![VIM]()
-
 So, I wrote a short script to sort
 
 <details>
@@ -793,7 +792,7 @@ The array of numbers I got:
 
 Convert from Decimal to ASCII and get the flag (I use CyberChef to do it)
 
-![solved]()
+![solved](https://github.com/TwentySick/CTF/blob/b83b2bc8891ef2b439851a833a8fdaeb6c66a2ea/2022/DCTF/reverse_engineering/seek/images/solved.png)
 
 Flag:
 ```
