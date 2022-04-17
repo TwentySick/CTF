@@ -7,7 +7,7 @@ Using binwalk, I easily can see that file embed with two file
 
 But extract this file and turn on ShowHiddenFiles mode, I can't find the "not_important.txt" file
 
-Check Hex from this file
+Then, I check Hex from this file
 
 Ah shiet, they changed something here
 
