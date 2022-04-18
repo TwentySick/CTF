@@ -2,7 +2,7 @@
 ## Challenge
 ![Challenge](https://github.com/TwentySick/CTF/blob/b83b2bc8891ef2b439851a833a8fdaeb6c66a2ea/2022/DCTF/reverse_engineering/seek/images/challenge.png)
 ## Solution
-As I know, fseek is working likely pointer in C
+As I know, fseek is working like pointer in C
 
 <details>
 <summary> Original file: </summary>
