@@ -46,7 +46,7 @@ Ok, I just found this by string "Wrong..." and leaked some data.
   *(undefined *)((long)plVar3 + 0x27) = 0x82;
 ```
 
-By my experience collected from some RE challenges, I try XOR it with the number of character 'C', 'a', 'k', 'e' from ASCII table.
+By my experience collected from some RE challenges, I tried XOR it with the number of character 'C', 'a', 'k', 'e' from ASCII table.
 
 ![realized](https://github.com/TwentySick/CTF/blob/d671ca795459810020ec707edf2a4e35ad11dcb4/2022/CakeCTF2022/reverse_engineering/nimrev/images/realized.png)
 
