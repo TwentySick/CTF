@@ -2,20 +2,20 @@
 
 ## Challenge
 
-![challenge]()
+![challenge](https://github.com/TwentySick/CTF/blob/d671ca795459810020ec707edf2a4e35ad11dcb4/2022/CakeCTF2022/reverse_engineering/nimrev/images/challenge.png)
 
 ## Solution
 Firstly, checking this file seem this file enabled all things from `checksec`. So, what should I do now?
 
-![check]()
+![check](https://github.com/TwentySick/CTF/blob/d671ca795459810020ec707edf2a4e35ad11dcb4/2022/CakeCTF2022/reverse_engineering/nimrev/images/check.png)
 
 Let look around this file by ghidra.
 
-![finding]()
+![finding](https://github.com/TwentySick/CTF/blob/d671ca795459810020ec707edf2a4e35ad11dcb4/2022/CakeCTF2022/reverse_engineering/nimrev/images/finding.png)
 
 Hehe, bingo, look at what I found there. The dataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-![found]()
+![found](https://github.com/TwentySick/CTF/blob/d671ca795459810020ec707edf2a4e35ad11dcb4/2022/CakeCTF2022/reverse_engineering/nimrev/images/found.png)
 
 Ok, I just found this by string "Wrong..." and leaked some data.
 
@@ -48,7 +48,7 @@ Ok, I just found this by string "Wrong..." and leaked some data.
 
 By my experience collected from some RE challenges, I try XOR it with the number of character 'C', 'a', 'k', 'e' from ASCII table.
 
-![realized]()
+![realized](https://github.com/TwentySick/CTF/blob/d671ca795459810020ec707edf2a4e35ad11dcb4/2022/CakeCTF2022/reverse_engineering/nimrev/images/realized.png)
 
 Ok, it's time to write a kiddie script to get the flag:
 
@@ -60,7 +60,7 @@ for i in s:
 ```
 Flag:
 
-![flag]()
+![flag](https://github.com/TwentySick/CTF/blob/d671ca795459810020ec707edf2a4e35ad11dcb4/2022/CakeCTF2022/reverse_engineering/nimrev/images/flag.png)
 
 ```
 CakeCTF{s0m3t1m3s_n0t_C} 
