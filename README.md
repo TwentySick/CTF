@@ -1,9 +1,11 @@
-# CTF
+# CTF Writeup (UwU)
 It's about CTFs that I've solved. There are my writeup for those challenges
+
 ## 2022:
-- [PicoCTF 2022](https://github.com/TwentySick/CTF/tree/main/2022/Picoctf2022)
-- [VishwaCTF](https://github.com/TwentySick/CTF/tree/main/2022/VishwaCTF)
-- [Space Heroes CTF](https://github.com/TwentySick/CTF/tree/main/2022/Space%20Heroes%20CTF)
-- [HackPack CTF](https://github.com/TwentySick/CTF/tree/main/2022/HackPack%20CTF)
-- [DCTF](https://github.com/TwentySick/CTF/tree/main/2022/DCTF)
-- [CakeCTF](https://github.com/TwentySick/CTF/tree/main/2022/CakeCTF2022/)
+- [PicoCTF 2022](/2022/Picoctf2022/README.md)
+- [VishwaCTF](/2022/VishwaCTF/README.md)
+- [Space Heroes CTF](/2022/Space%20Heroes%20CTF/README.md)
+- [HackPack CTF](/2022/HackPack%20CTF/README.md)
+- [DCTF](/2022/DCTF/README.md)
+- [CakeCTF](/2022/CakeCTF2022/README.md)
+- [HackTheBoo 2022](/2022/HackTheBoo2022/README.md)
