@@ -10,3 +10,6 @@ It's about CTFs that I've solved. There are my writeup for those challenges
 - [CakeCTF](/2022/CakeCTF2022/README.md)
 - [HackTheBoo 2022](/2022/HackTheBoo2022/README.md)
 - [TUCTF 2022](/2022/TUCTF2022/README.md)
+
+## 2023:
+- [Pragyan 2023](/2023/Pragyan2023/README.md)
