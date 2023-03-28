@@ -13,4 +13,4 @@ It's about CTFs that I've solved. There are my writeup for those challenges
 
 ## 2023:
 - [Pragyan 2023](/2023/Pragyan2023/README.md)
-- [PicoCTF 2023](/2023/Picoctf2023/README.md)
+- [PicoCTF 2023](/2023/picoctf2023/README.md)
