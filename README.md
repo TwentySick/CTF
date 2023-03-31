@@ -1,5 +1,5 @@
 # CTF Writeup
-It's about CTFs that I've solved. There are my writeup for those challenges
+It's about CTFs that I've solved.
 
 ## 2022:
 - [PicoCTF 2022](/2022/Picoctf2022/README.md)
