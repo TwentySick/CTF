@@ -2,7 +2,7 @@
 
 ## **!!! Warning !!!**
 
-*I wrote it by my mommmmmmmm language. So if you want to understand it, I strongly recommend you search another writeups 😁*
+*I wrote it by my mommmmmmmm language. So if you want to understand it, I strongly recommend that you should search another writeups 😁*
 
 ## **Writeup**
 
