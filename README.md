@@ -1,6 +1,9 @@
 # CTF Writeup
 It's about CTFs that I've solved. There are my writeup for those challenges
 
+## Try Hack Me
+- [Bank CTF](/tryhackme/bank_ctf/README.md)
+
 ## 2022:
 - [PicoCTF 2022](/2022/Picoctf2022/README.md)
 - [VishwaCTF](/2022/VishwaCTF/README.md)
