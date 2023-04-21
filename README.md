@@ -1,5 +1,5 @@
 # CTF Writeup
-It's about CTFs that I've solved. There are my writeup for those challenges
+It's about CTFs that I've solved.
 
 ## Try Hack Me
 - [Bank CTF](/tryhackme/bank_ctf/README.md)

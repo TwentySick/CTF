@@ -1,11 +1,11 @@
 # **PicoCTF2023**
 
-<center><h2><b>My score</b></h2></center>
-<center><img src="images/my_score.png" /></center>
+<h2 align=center><b>My score</b></h2>
+<p align=center><img src="images/my_score.png" align=center /></p>
 
 ---
 
-<center><h2><b>Writeup</b></h2></center>
+<h2 align=center><b>Writeup</b></h2>
 
 ## **Forensics**
 - [hideme](/2023/picoctf2023/forensics/hideme/README.md)
