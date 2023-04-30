@@ -4,6 +4,9 @@ It's about CTFs that I've solved.
 ## Try Hack Me
 - [Bank CTF](/tryhackme/bank_ctf/README.md)
 
+## Hack The Box
+- [Monitors Two](/hackthebox/MonitorsTwo/README.md)
+
 ## 2022:
 - [PicoCTF 2022](/2022/Picoctf2022/README.md)
 - [VishwaCTF](/2022/VishwaCTF/README.md)
