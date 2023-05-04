@@ -6,6 +6,7 @@ It's about CTFs that I've solved.
 
 ## Hack The Box
 - [Monitors Two](/hackthebox/MonitorsTwo/README.md)
+- [VHDLock](/hackthebox/VHDLock/README.md)
 
 ## 2022:
 - [PicoCTF 2022](/2022/Picoctf2022/README.md)
