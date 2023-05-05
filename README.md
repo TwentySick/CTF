@@ -1,23 +1,38 @@
-# CTF Writeup
+# **CTF Writeup**
 It's about CTFs that I've solved.
 
-## Try Hack Me
-- [Bank CTF](/tryhackme/bank_ctf/README.md)
+## **Summary**
+- [Try Hack Me](#try-hack-me)
+- [Hack The Box](#hack-the-box)
+- CTF Events:
+    - [2022](#2022)
+    - [2023](#2023)
 
-## Hack The Box
-- [Monitors Two](/hackthebox/MonitorsTwo/README.md)
-- [VHDLock](/hackthebox/VHDLock/README.md)
+## **Try Hack Me**
+| Name | Type | Writeup |
+| --- | --- | --- |
+| Bank CTF | Room |  [Writeup](/tryhackme/bank_ctf/README.md) |
 
-## 2022:
-- [PicoCTF 2022](/2022/Picoctf2022/README.md)
-- [VishwaCTF](/2022/VishwaCTF/README.md)
-- [Space Heroes CTF](/2022/Space%20Heroes%20CTF/README.md)
-- [HackPack CTF](/2022/HackPack%20CTF/README.md)
-- [DCTF](/2022/DCTF/README.md)
-- [CakeCTF](/2022/CakeCTF2022/README.md)
-- [HackTheBoo 2022](/2022/HackTheBoo2022/README.md)
-- [TUCTF 2022](/2022/TUCTF2022/README.md)
+## **Hack The Box**
+| Name | Type | Writeup |
+| --- | --- | --- |
+| Monitors Two | Machine |  [Writeup](/hackthebox/MonitorsTwo/README.md) |
+| VHDLock | Challenge (Hardware) | [Writeup](/hackthebox/VHDLock/README.md) |
 
-## 2023:
-- [Pragyan 2023](/2023/Pragyan2023/README.md)
-- [PicoCTF 2023](/2023/picoctf2023/README.md)
+## **2022**
+| Name | Format | Writeup |
+| --- | --- | --- |
+| PicoCTF 2022 | Jeopardy | [Writeup](/2022/Picoctf2022/README.md) |
+| VishwaCTF | Jeopardy | [Writeup](/2022/VishwaCTF/README.md) |
+| Space Heroes CTF | Jeopardy | [Writeup](/2022/Space%20Heroes%20CTF/README.md) |
+| Hackpack CTF | Jeopardy | [Writeup](/2022/HackPack%20CTF/README.md) |
+| DCTF | Jeopardy | [Writeup](/2022/DCTF/README.md) |
+| CakeCTF | Jeopardy | [Writeup](/2022/CakeCTF2022/README.md) | 
+| HackTheBoo 2022 | Jeopardy | [Writeup](/2022/HackTheBoo2022/README.md) |
+| TUCTF 2022 | Jeopardy | [Writeup](/2022/TUCTF2022/README.md) |
+
+## **2023**
+| Name | Format | Writeup |
+| --- | --- | --- |
+| Pragyan 2023 | Jeopardy | [Writeup](/2023/Pragyan2023/README.md) |
+| PicoCTF 2023 | Jeopardy | [Writeup](/2023/picoctf2023/README.md) |

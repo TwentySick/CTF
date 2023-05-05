@@ -107,6 +107,8 @@ As the challenge mentioning, the xorKey is a 4-byte sequence. That mean the xorK
 
 Ok, so how to find 'xorKey'? We all know that 4 first characters of flag is 'HTB{', it's enough to find the xorKey. I just simulate the process of encrypting flag step by step.
 
-Found the key, I wrote a short script to solve the challenge.
+Found the key, I just reverse the process to solve the challenge. XOR -> get 4 bit from the dictionary of 'decoder_4x16' -> combine 2 parts together.
+
+I wrote a short script to solve the challenge.
 
 ![script](/hackthebox/VHDLock/images/script.png)
