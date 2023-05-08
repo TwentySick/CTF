@@ -1,6 +1,6 @@
 # **MonitorsTwo**
 
-*Sorry because of my weak english*
+*Sorry because of my broken english*
 
 First thing, I ran nmap to scan open port of this server (port 22 and 80 opened as default of ssh and http port)
 
