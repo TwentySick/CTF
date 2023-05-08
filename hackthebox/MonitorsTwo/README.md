@@ -32,7 +32,7 @@ In summary, we can remote to this server by magic way (to understand how, you sh
 
 ![RCE](/hackthebox/MonitorsTwo/images/RCE.png)
 
-I saw the file "cacti.sql here"
+I saw the file "cacti.sql" here
 
 ![sql](/hackthebox/MonitorsTwo/images/sql.png)
 
