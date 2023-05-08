@@ -44,7 +44,7 @@ With user root and password root, I checked the database and found another user 
 
 ![found user marcus](/hackthebox/MonitorsTwo/images/found_user_marcus.png)
 
-Beside that, the website just ran on a docker container, I can see the file *.dockerenv*
+Beside that, the website just run on a docker container, I can see the file *.dockerenv*
 
 ![in the docker](/hackthebox/MonitorsTwo/images/inthedocker.png)
 
