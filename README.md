@@ -9,15 +9,16 @@ It's about CTFs that I've solved.
     - [2023](#2023)
 
 ## **Try Hack Me**
-| Name | Type | Writeup |
-| --- | --- | --- |
-| Bank CTF | Room |  [Writeup](/tryhackme/bank_ctf/README.md) |
+| Name | Type | Difficuty | Writeup |
+| --- | --- | --- | --- |
+| Bank CTF | Room | Easy | [Writeup](/tryhackme/bank_ctf/README.md) |
+| Anonymous | Room | Medium | [Writeup](/tryhackme/anonymous/README.md) |
 
 ## **Hack The Box**
-| Name | Type | Writeup |
-| --- | --- | --- |
-| Monitors Two | Machine |  [Writeup](/hackthebox/MonitorsTwo/README.md) |
-| VHDLock | Challenge (Hardware) | [Writeup](/hackthebox/VHDLock/README.md) |
+| Name | Type | Difficulty | Writeup |
+| --- | --- | --- | --- |
+| Monitors Two | Machine | Easy | [Writeup](/hackthebox/MonitorsTwo/README.md) |
+| VHDLock | Challenge (Hardware) | Easy | [Writeup](/hackthebox/VHDLock/README.md) |
 
 ## **2022**
 | Name | Format | Writeup |
