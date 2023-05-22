@@ -18,6 +18,7 @@ It's about CTFs that I've solved.
 | Name | Type | Difficulty | Writeup |
 | --- | --- | --- | --- |
 | Monitors Two | Machine | Easy | [Writeup](/hackthebox/MonitorsTwo/README.md) |
+| PC | Machine | Easy | [Writeup](/hackthebox/PC/README.md) |
 | VHDLock | Challenge (Hardware) | Easy | [Writeup](/hackthebox/VHDLock/README.md) |
 
 ## **2022**
