@@ -14,6 +14,7 @@ It's about CTFs that I've solved.
 | Bank CTF | Room | Easy | [Writeup](/tryhackme/bank_ctf/README.md) |
 | Anonymous | Room | Medium | [Writeup](/tryhackme/anonymous/README.md) |
 | Weasel | Room | Medium | [Writeup](/tryhackme/weasel/README.md) |
+| Valley | Room | Easy | [Writeup](/tryhackme/valley/README.md) |
 
 ## **Hack The Box**
 | Name | Type | Difficulty | Writeup |
