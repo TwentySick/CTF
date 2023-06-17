@@ -2,7 +2,9 @@
 
 # **Topology - Machine - Hack The Box**
 
-*Notes: Đây là máy chung, trong quá trình mình viết writeup đã bị phá khá nhiều nên là nếu bạn làm theo mà không được thì bạn đen thôi*
+*Notes: Đây là máy chung, trong quá trình mình viết writeup đã bị phá khá nhiều nên là nếu bạn làm theo mà không được thì bạn đen thôi. Lần đầu viết writeup mà cảm thấy mông lung như này luôn á*
+
+- [New Update](#i-dont-know)
 
 Mình đã scan IP này với công cụ nmap và đây là kết quả
 
@@ -81,3 +83,13 @@ Thật trùng hợp khi mình check thư mục này, mình có quyền ghi nhưn
 Tuy vậy vẫn không cản trở được lắm vì có quyền ghi, nên mình đã ghi 1 file plt vào đó và thành công get root
 
 ![get root](/hackthebox/Topology/images/get_root.png)
+
+## I don't know
+
+Tại thời điểm mình làm lại máy này để viết writeup, thì filter mới được update, thế này thì coi như filter bằng sạch rồi.
+
+![new filter](/hackthebox/Topology/images/new_filter.png)
+
+Nên mình đã sử dụng *lstinputlisting* để đọc file .htpasswd và thành công
+
+![another ways](/hackthebox/Topology/images/another_ways.png)
