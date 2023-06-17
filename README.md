@@ -21,6 +21,8 @@ It's about CTFs that I've solved.
 | --- | --- | --- | --- |
 | Monitors Two | Machine | Easy | [Writeup](/hackthebox/MonitorsTwo/README.md) |
 | PC | Machine | Easy | [Writeup](/hackthebox/PC/README.md) |
+| Topology | Machine | Easy | [Writeup](/hackthebox/Topology/README.md) |
+| Jupiter | Machine | Medium | [Writeup] |
 | VHDLock | Challenge (Hardware) | Easy | [Writeup](/hackthebox/VHDLock/README.md) |
 
 ## **2022**
