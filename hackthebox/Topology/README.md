@@ -86,6 +86,10 @@ Tuy vậy vẫn không cản trở được lắm vì có quyền ghi, nên mìn
 
 ## I don't know
 
+Change log của machine này 🙃🙂 Cái này đến lúc mình làm lại machine này để viết writeup mới biết á chứ trước đó không hề như này. Vì mình pwned máy này vào ngày 11 còn machine có thay đổi là vào ngày 16.
+
+![change log](/hackthebox/Topology/images/change_log.png)
+
 Tại thời điểm mình làm lại máy này để viết writeup, thì filter mới được update, thế này thì coi như filter bằng sạch rồi.
 
 ![new filter](/hackthebox/Topology/images/new_filter.png)
